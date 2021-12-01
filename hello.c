@@ -4,3 +4,9 @@ int main()
 {
   return 0;
 }
+
+
+int substruct(int x, inty)
+{
+
+}
