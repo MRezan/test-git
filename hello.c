@@ -8,5 +8,5 @@ int main()
 
 int substruct(int x, inty)
 {
-
+  return x-y;
 }
